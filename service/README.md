@@ -28,8 +28,6 @@ O app abrirá automaticamente no navegador em `http://localhost:8501`
 
 ## Funcionalidades
 
-- 📤 Upload de imagens (PNG, JPG, JPEG, WebP)
-- 📷 Captura via câmera
 - 🔍 Identificação do Pokémon com confiança
 - 🏆 Top-K Pokémon mais similares
 - 🖼️ Imagens oficiais dos Pokémon
