@@ -320,7 +320,7 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown(
-        "<p style='text-align: center; color: gray;'>🎮 PokéGuess - Feito com ❤️ e TensorFlow | "
+        "<p style='text-align: center; color: gray;'>🎮 PokéGuess - Feito com TensorFlow e Poke-API | "
         "Desenvolvido por <a href='https://github.com/skaduhs5232' target='_blank' style='color: #3D7DCA;'>Thiago</a></p>",
         unsafe_allow_html=True
     )
