@@ -1,0 +1,13 @@
+{
+  "test_loss": 2.3914875984191895,
+  "test_accuracy": 0.7537878751754761,
+  "top1_accuracy": 0.7537878787878788,
+  "top3_accuracy": 0.8484848484848485,
+  "top5_accuracy": 0.8806818181818182,
+  "epochs_trained": 80,
+  "best_val_accuracy": 0.7734375,
+  "num_classes": 251,
+  "train_samples": 4216,
+  "val_samples": 527,
+  "test_samples": 528
+}
